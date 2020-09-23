@@ -1,0 +1,30 @@
+ÿ€Well this is the code for you! If you are a PSC Code contributor, you know that after 
+downloading your code people seldom comes to vote. It's because people forget the 
+link and never bothers to find it again. That's why I have made this for you... 
+
+Now This User Control(PSCVOTE) makes it so easy for people to reach your code's voting 
+page at anytime from anywhere. What you need to do is keep this user control in your 
+project and use it wherever you wish. 
+
+Your voting page will be just a click away!
+
+Note: Please note that the code you submit should be compressed in a way that the 
+PSC Read Me file should be in the App.path directory.
+
+For Example, If your project's path is "C:\My Projects\Project1\Project.vbp" , then you 
+should compress the folder 'Project1' not 'My Projects'
+
+The reason is that 'GetURL' function in the UserControl looks for PSC README file in 
+App.path and if you compressed 'My Projects' (or any parent folder of App.path) , the PSC 
+ReadMe file will be placed in the 'My Projects' folder(or the parent folder you compressed) 
+not inside App.path. 
+
+So take care not to keep any Parent Folder to your App.path in the submitted ZIP file.
+
+Also note that you should not have any text file that resembles the file name 
+"@PSC_ReadMe_"
+
+Now try clicking 'VOTE NOW!'  it will take you to my voting page and it will work for you 
+too.
+
+Enjoy it!
